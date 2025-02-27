@@ -1,0 +1,5 @@
+C:/Users/Stepa/OneDrive/Desktop/VS projects/Example/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Stepa/OneDrive/Desktop/VS projects/Example/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Stepa/OneDrive/Desktop/VS projects/Example/build/Foo/CMakeFiles/Foo.dir
+C:/Users/Stepa/OneDrive/Desktop/VS projects/Example/build/Bar/CMakeFiles/Bar.dir
+C:/Users/Stepa/OneDrive/Desktop/VS projects/Example/build/App/CMakeFiles/App.dir
